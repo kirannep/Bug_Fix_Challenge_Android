@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bug fix 09/08</string>
+    <string name="go_to_next_activity">Go to next Activity</string>
+    <string name="you_did_it">You did it!</string>
+</resources>
